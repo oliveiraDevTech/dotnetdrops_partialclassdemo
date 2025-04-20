@@ -1,0 +1,1 @@
+# dotnetdrops_partialclassdemo
